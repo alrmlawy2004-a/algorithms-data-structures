@@ -1,21 +1,13 @@
-# Algorithms and Data Structures
+# Algorithms Data Structures
 
-I practice account modeling, randomized treasure/bag operations, and stack-based balanced-parenthesis checking in separate Java exercises.
+This collection provides an index to my independent projects and retains their source copies.
 
-## Technologies
+| Project | Source |
+| --- | --- |
+| Balanced Parentheses Checker | [Open project](https://github.com/alrmlawy2004-a/balanced-parentheses-checker) |
+| Account Modeling | [Open project](https://github.com/alrmlawy2004-a/account-modeling) |
+| Randomized Treasure Bag | [Open project](https://github.com/alrmlawy2004-a/randomized-treasure-bag) |
 
-Java 17, Maven.
+[Explore my portfolio](https://alrmlawy2004-a.github.io/)
 
-## Files
-
-- `randomized-treasure-bag/pom.xml`
-- `balanced-parentheses-checker/pom.xml`
-- `account-modeling/pom.xml`
-
-## Run
-
-Each directory is a separate Maven project. Run `mvn compile exec:java` in the chosen directory. Its `pom.xml` identifies the main class.
-
-## Scope and limitations
-
-These are independent console exercises. The customer waiting-queue project is presented once under java-applications instead of duplicating it here.
+Read each project guide for setup and limitations.
